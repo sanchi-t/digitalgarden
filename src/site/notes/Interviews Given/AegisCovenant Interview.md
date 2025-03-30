@@ -12,7 +12,7 @@
 
 1. [[Interview/Backend/NodeJs#Architecture \| What is the event loop in JavaScript, and how does it handle asynchronous operations?]]
 2. What is an object in JavaScript?
-3. [[NodeJs#5. What is var, let and const in js? | Explain the differences between `var`, `let`, and `const` in JavaScript.]]
+3. [[NodeJs#5. What is var, let and const in js?| Explain the differences between `var`, `let`, and `const` in JavaScript.]]
 4. [[Interview/Backend/NodeJs#14. Can values of js const object be changed? Why? How to prevent that?\|Can we change the properties of an object in JavaScript?]]
 5. What is the difference between pass-by-value and pass-by-reference in JavaScript?
 6. [[Interview/Interview Prep#21. What is the difference between static and dynamic languages?\|What is the difference between dynamic and static languages?]]
